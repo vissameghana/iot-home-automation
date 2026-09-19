@@ -60,7 +60,7 @@ The project also demonstrated reliable manual operation during network failures 
 ## 👩‍💻 Team
 
 **Team Lead:**  
-V. J S Meghana
+Vissa J S Meghana
 
 **Team Members:**
 - P. Suseela Devi
